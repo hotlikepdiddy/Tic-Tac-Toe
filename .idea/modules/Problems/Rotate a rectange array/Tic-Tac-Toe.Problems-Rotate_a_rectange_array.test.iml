@@ -7,7 +7,6 @@
     <content url="file://$MODULE_DIR$/../../../../Problems/Rotate a rectange array/test" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="Tic-Tac-Toe.Problems-Rotate_a_rectange_array.main" />
     <orderEntry type="library" name="Gradle: com.github.hyperskill:hs-test:v7.0.1" level="project" />
     <orderEntry type="library" name="Gradle: com.github.stefanbirkner:system-rules:1.19.0" level="project" />
     <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
